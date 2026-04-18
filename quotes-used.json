@@ -1,0 +1,8 @@
+{
+  "_comment": "Tracks which quotes from daily-quotes-bank.md have been used. The weekly briefing routine reads this, picks unused quotes, and appends to used_quote_ids. To force a quote to be re-used, remove its ID from the array.",
+  "last_run": null,
+  "week_count": 0,
+  "saturday_alternate": "brother",
+  "used_quote_ids": [],
+  "history": []
+}
