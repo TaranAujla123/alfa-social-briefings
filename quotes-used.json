@@ -1,10 +1,11 @@
 {
   "_comment": "Tracks which quotes from daily-quotes-bank.md have been used. The weekly briefing routine reads this, picks unused quotes, and appends to used_quote_ids. To force a quote to be re-used, remove its ID from the array.",
-  "last_run": "2026-04-18",
-  "week_count": 1,
-  "saturday_alternate": "founder",
-  "used_quote_ids": [1, 49, 71],
+  "last_run": "2026-04-20",
+  "week_count": 2,
+  "saturday_alternate": "brother",
+  "used_quote_ids": [1, 49, 71, 2, 50, 23],
   "history": [
-    { "week": "2026-04-13", "quotes": [1, 49, 71] }
+    { "week": "2026-04-13", "quotes": [1, 49, 71] },
+    { "week": "2026-04-20", "quotes": [2, 50, 23] }
   ]
 }
